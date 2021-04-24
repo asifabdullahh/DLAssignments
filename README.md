@@ -1,5 +1,5 @@
 # DLAssignments
-four Assignments done by my self and get 92%+ , only one Flowers Recognition assignment code i just copied from kaggle.
+four Assignments done by my self and get 92%+
 
 Asif Abdullah
 Roll No.PIAIC96367
